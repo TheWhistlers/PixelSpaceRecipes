@@ -1,0 +1,12 @@
+{
+    "Type": "Drying",
+    "Raw": {
+        "Name": "SaltWater",
+        "Volume": 100
+    },
+    "Product": {
+        "Name": "SaltSteam",
+        "Volume": 70
+    },
+    "CookTime": 35
+}

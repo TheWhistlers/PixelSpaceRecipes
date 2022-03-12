@@ -1,0 +1,16 @@
+{
+    "Type": "Blending",
+    "Material": {
+        "Name": "RefinedSalt",
+        "Weight": 50
+    },
+    "Fluid": {
+        "Name": "Water",
+        "Volume": 100
+    },
+    "Product": {
+        "Name": "SaltWater",
+        "Volume": 100
+    },
+    "CookTime": 10
+}

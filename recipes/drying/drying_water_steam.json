@@ -1,0 +1,12 @@
+{
+    "Type": "Drying",
+    "Raw": {
+        "Name": "Water",
+        "Volume": 100
+    },
+    "Product": {
+        "Name": "Steam",
+        "Volume": 100
+    },
+    "CookTime": 20
+}

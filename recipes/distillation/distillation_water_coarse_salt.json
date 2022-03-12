@@ -1,0 +1,12 @@
+{
+    "Type": "Distillation",
+    "Fluid": {
+        "Name": "Water",
+        "Volume": 1000
+    },
+    "Material": {
+        "Name": "CoarseSalt",
+        "Weight": 10
+    },
+    "CookTime": 250
+}

@@ -1,0 +1,17 @@
+{
+    "Type": "AlloySmithing",
+    "Stuff1": {
+        "Name": "Coal",
+        "Weight": 5
+    },
+    "Stuff2": {
+        "Name": "IronIngot",
+        "Weight": 5
+    },
+    "Product": {
+        "Name": "SteelIngot",
+        "Weight": 7
+    },
+    "NeedThermalEnergy": 2100,
+    "CookTime": 150
+}

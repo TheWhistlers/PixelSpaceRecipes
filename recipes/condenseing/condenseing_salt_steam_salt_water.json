@@ -1,0 +1,12 @@
+{
+    "Type": "Condenseing",
+    "Raw": {
+        "Name": "SaltSteam",
+        "Volume": 100
+    },
+    "Product": {
+        "Name": "SaltWater",
+        "Volume": 70
+    },
+    "CookTime": 35
+}
